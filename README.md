@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @XPythonista
-- 👀 I’m interested in Python Software
-- 🌱 I’m currently learning Python 
+- 👋 Hi, I’m @XPythonista.
+- 👀 I’m interested in Python programming.
+- 🌱 I’m currently learning Python.
 
 <!---
 XPythonista/XPythonista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
